@@ -4,8 +4,7 @@
 ![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
 </br>
 
-!!! info
-    This section provides important details about the vector dot product.
+> **Info:** This section provides important details about the vector dot product.
     
 The dot product of two vectors is equal to the product of the magnitudes of the two vectors, 
 and the cosine of the angle between them.
@@ -59,8 +58,7 @@ vector_b = [4, 5, 6]
 result = dot_product(vector_a, vector_b)
 print(f"The dot product of {vector_a} and {vector_b} is: {result}")
 ```
-!!! danger
-    Be cautious when using large vectors, as the calculations may take longer.
+> **Danger:** Be cautious when using large vectors, as the calculations may take longer.
 
 ## **Invention of vector dot product**
 > The dot product, also known as the scalar product, was not invented by a single person,</br>
