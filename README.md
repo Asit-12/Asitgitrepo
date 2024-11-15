@@ -26,7 +26,7 @@ This operation is crucial in many areas of physics, including the calculation of
 
 In the image above, you can observe how the vector dot product relates geometrically to the projection of one vector onto another. The closer the angle between the vectors is to zero (parallel), the larger the dot product becomes, and when the vectors are perpendicular, the dot product equals zero.
 
-##**Parallel and Perpendicular vectors**
+## **Parallel and Perpendicular vectors**
 <p><strong>0° Angle (Vectors are parallel):</strong></p>
 <p><code>A &middot; B = |A| |B| cos(0&deg;) = |A| |B| (Maximum Dot Product)</code></p>
 
