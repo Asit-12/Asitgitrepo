@@ -20,9 +20,6 @@ Where:
 - $\theta$ is the angle between the vectors.
 
 This operation is crucial in many areas of physics, including the calculation of work done by a force[^1].
-
-## Footnotes
-
 [^1]: The dot product calculates how much one vector contributes to another in the direction of the second vector. It is widely used in mechanics to determine the work done by a force applied over a distance.
 
 In the image above, you can observe how the vector dot product relates geometrically to the projection of one vector onto another. The closer the angle between the vectors is to zero (parallel), the larger the dot product becomes, and when the vectors are perpendicular, the dot product equals zero.
