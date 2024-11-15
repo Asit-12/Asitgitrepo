@@ -1,7 +1,7 @@
 # **Implementing Vector Dot Product**
 ## **A simple introduction to the concept and its importance.**
 
-![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
+![vector product](https://github.com/asit-12/Asitgitrepo/blob/main/vector.png?raw=true)
 </br>
 
 > **Info:** This section provides important details about the vector dot product.
