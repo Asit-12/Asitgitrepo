@@ -60,6 +60,18 @@ print(f"The dot product of {vector_a} and {vector_b} is: {result}")
 ```
 > **Danger:** Be cautious when using large vectors, as the calculations may take longer.
 
+## **Changes in Vector Dot Product Algorithm**
+
+| Version | Changes Made                                   | Notes                             |
+|---------|-----------------------------------------------|-----------------------------------|
+| 1.0     | Basic dot product calculation.                | Initial implementation.           |
+| 1.1     | Used list comprehension for optimization.     | Faster for large vectors.         |
+| 1.2     | Added check for zero-length vectors.          | Handles edge cases.               |
+| 1.3     | Parallelized for multi-core processors.       | Improved speed for large datasets.|
+| 1.4     | Added error handling for mismatched sizes.    | Prevents runtime errors.         |
+
+
+
 ## **Invention of vector dot product**
 > The dot product, also known as the scalar product, was not invented by a single person,</br>
 > but is a well-established mathematical operation.</br>
