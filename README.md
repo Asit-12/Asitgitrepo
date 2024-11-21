@@ -1,7 +1,7 @@
 # **Implementing Vector Dot Product**
 ## **A simple introduction to the concept and its importance.**
 
-![t](http://url/to/img.png)
+![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
 
 </br>
 
